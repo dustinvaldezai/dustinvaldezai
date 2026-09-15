@@ -1,32 +1,71 @@
+<div align="center">
+
 # Dustin Valdez
 
-Applied AI systems, workflow automation, and operations design for real-world organizations.
+**Applied AI · Operations · Implementation**
 
-I focus on using AI to make work clearer, more reliable, and easier to act on. My background spans nonprofit operations, project management, logistics, education, research, and community leadership, so I tend to start with the operational problem before choosing the tool.
+<a href="https://dustyrosegardens.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/dustin-valdez-1b141117/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/dustinvaldezai"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-## What I’m working on
+</div>
 
-- AI-assisted research and synthesis workflows
-- Practical automation for small organizations and lean teams
-- Human-in-the-loop systems for review, verification, and decision support
-- Applied AI workflows that reduce manual work without overcomplicating the stack
+---
 
-## Working principles
+I build practical AI-assisted systems for real-world operations: research workflows, automation, decision support, and the guardrails that make them reliable enough to use.
 
-- Start with the business problem, not the AI
-- Design the workflow before choosing the tool
-- Keep humans in the loop where judgment matters
-- Verify outputs before calling the system done
-- Build for the people who actually have to use it
+My background spans nonprofit operations, project management, logistics, education, research, and community leadership. I usually start with the operating problem, map the workflow, make the evidence visible, then decide where AI actually belongs.
 
-## Selected work
+---
 
-- [Workflow Transformation](https://github.com/dustinvaldezai/workflow-transformation) — staged AI-assisted research, evidence validation, synthesis, and human review
-- [Community Operations Automation](https://github.com/dustinvaldezai/community-operations-automation) — practical automation of recurring community operations with routing, approval, and follow-up logic
-- [Small Business Growth Diagnostic](https://github.com/dustinvaldezai/small-business-growth-diagnostic) — operational data, capacity modeling, retention analysis, evidence boundaries, and leadership decision support
-- [Applied AI Workflow Patterns](https://github.com/dustinvaldezai/applied-ai-workflow-patterns) — reusable design patterns extracted from the portfolio across research, operations, and decision support
+## Current Work
 
-## Elsewhere
+| | |
+|---|---|
+| **[Workflow Transformation](https://github.com/dustinvaldezai/workflow-transformation)** | Staged AI-assisted research with structured extraction, evidence validation, synthesis, and human review. |
+| **[Community Operations Automation](https://github.com/dustinvaldezai/community-operations-automation)** | A public-safe operations case showing routing, reusable response patterns, escalation rules, and follow-up logic. |
+| **[Small Business Growth Diagnostic](https://github.com/dustinvaldezai/small-business-growth-diagnostic)** | Turns messy operating data, capacity constraints, customer behavior, and assumptions into a decision-ready growth diagnosis. |
+| **[Applied AI Workflow Patterns](https://github.com/dustinvaldezai/applied-ai-workflow-patterns)** | A reusable library of workflow patterns extracted from the portfolio across research, operations, and decision support. |
 
-- Website: https://dustyrosegardens.com
-- LinkedIn: https://www.linkedin.com/in/dustin-valdez-1b141117/
+---
+
+## The Through-Line
+
+**AI should make work clearer, more reliable, and easier to act on.**
+
+The strongest systems are not the ones with the most automation. They are the ones where the workflow is understandable, the evidence is inspectable, and people know when to trust the output and when to stop for judgment.
+
+- **Start with the operating problem.** The tool comes after the workflow is understood.
+- **Structure before automating.** Clear inputs, stages, outputs, and ownership reduce ambiguity.
+- **Evidence before synthesis.** Important claims should stay traceable to their source.
+- **Keep unknowns visible.** Missing data, uncertainty, and assumptions should not disappear inside polished output.
+- **Human review where judgment matters.** Exceptions, sensitive cases, and consequential decisions should stop for a person.
+- **Design for the operator.** A system only works if the people using it can understand and maintain it.
+
+---
+
+## What I Work Across
+
+```text
+Applied AI · workflow automation · research synthesis · operations design
+Program and project coordination · implementation · decision support
+ChatGPT · Gemini · NotebookLM · Zapier · Google Workspace · Microsoft 365 · Salesforce
+```
+
+---
+
+## How To Read This Portfolio
+
+The repositories are intentionally public-safe. Real client and organization names, private records, raw correspondence, credentials, and confidential operating details are excluded.
+
+Where a result is verified, I label it as verified. Where an example is synthetic, reconstructed, modeled, or directional, I say so. The goal is to make the work inspectable without overstating what happened behind the scenes.
+
+---
+
+<div align="center">
+
+Los Angeles, California
+
+[Website](https://dustyrosegardens.com) · [LinkedIn](https://www.linkedin.com/in/dustin-valdez-1b141117/) · [GitHub](https://github.com/dustinvaldezai)
+
+</div>

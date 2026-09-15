@@ -24,6 +24,7 @@ I focus on using AI to make work clearer, more reliable, and easier to act on. M
 - [Workflow Transformation](https://github.com/dustinvaldezai/workflow-transformation) — staged AI-assisted research, evidence validation, synthesis, and human review
 - [Community Operations Automation](https://github.com/dustinvaldezai/community-operations-automation) — practical automation of recurring community operations with routing, approval, and follow-up logic
 - [Small Business Growth Diagnostic](https://github.com/dustinvaldezai/small-business-growth-diagnostic) — operational data, capacity modeling, retention analysis, evidence boundaries, and leadership decision support
+- [Applied AI Workflow Patterns](https://github.com/dustinvaldezai/applied-ai-workflow-patterns) — reusable design patterns extracted from the portfolio across research, operations, and decision support
 
 ## Elsewhere
 
